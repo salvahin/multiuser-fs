@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Entorno virtual
+env_multfs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
